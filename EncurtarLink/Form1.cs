@@ -39,7 +39,7 @@ namespace EncurtarLink
                 //    < errormessage > OK </ errormessage >
                 //< created_at > 2011 - 04 - 01 20:26:44 </ created_at >
                 //    < source > site </ source >
-                //    < date > 2011 - 04 - 01 20:26:44 </ date >
+                //    < date > 2011 - 04 - 01 20:26:44 </ date>
                 //    < id > 4ahU7 </ id >
                 //    < url > http://www.google.com.br/search?hl=pt-BR&q=infopod</url>
                 //< migre > http://migre.me/4ahU7</migre>
